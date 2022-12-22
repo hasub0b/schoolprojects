@@ -1,0 +1,2 @@
+Our program "TrafficWeatherApp" can be used to monitor the weather and road maintenance and condition. This is a Java maven project so it can be run in for example NetBeans. The User manual explains how the program work.
+Our desing document can be found in our GitLab repository and here is a link to our figma project prototype: https://www.figma.com/file/MgLkycQuzlvqfoukqI4FAX/First-draft?node-id=0%3A1
